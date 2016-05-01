@@ -1,0 +1,16 @@
+edu/sjsu/cmpe282/model/TimeSlotReservation.class
+edu/sjsu/cmpe282/StudyroomApplication.class
+edu/sjsu/cmpe282/model/RoomReservation.class
+edu/sjsu/cmpe282/config/RepositoryConfig.class
+edu/sjsu/cmpe282/service/StudentService.class
+edu/sjsu/cmpe282/controller/HelloController.class
+edu/sjsu/cmpe282/config/DataBaseConfig.class
+edu/sjsu/cmpe282/repository/TimeTableRepository.class
+edu/sjsu/cmpe282/service/TimeTableService.class
+edu/sjsu/cmpe282/model/Student.class
+edu/sjsu/cmpe282/model/TimeTable.class
+edu/sjsu/cmpe282/config/SecurityConfig.class
+edu/sjsu/cmpe282/controller/StudentController.class
+edu/sjsu/cmpe282/model/StudentReservation.class
+edu/sjsu/cmpe282/controller/TimeTableController.class
+edu/sjsu/cmpe282/repository/StudentRepository.class
