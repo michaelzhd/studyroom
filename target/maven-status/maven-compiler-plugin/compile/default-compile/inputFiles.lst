@@ -9,8 +9,10 @@
 /Users/Michaelzhd/CMPE282/studyroom/src/main/java/edu/sjsu/cmpe282/controller/HelloController.java
 /Users/Michaelzhd/CMPE282/studyroom/src/main/java/edu/sjsu/cmpe282/repository/TimeTableRepository.java
 /Users/Michaelzhd/CMPE282/studyroom/src/main/java/edu/sjsu/cmpe282/service/TimeTableService.java
+/Users/Michaelzhd/CMPE282/studyroom/src/main/java/edu/sjsu/cmpe282/config/CrossOriginConfiguration.java
 /Users/Michaelzhd/CMPE282/studyroom/src/main/java/edu/sjsu/cmpe282/model/Student.java
 /Users/Michaelzhd/CMPE282/studyroom/src/main/java/edu/sjsu/cmpe282/model/TimeSlotReservation.java
 /Users/Michaelzhd/CMPE282/studyroom/src/main/java/edu/sjsu/cmpe282/model/RoomReservation.java
 /Users/Michaelzhd/CMPE282/studyroom/src/main/java/edu/sjsu/cmpe282/service/StudentService.java
+/Users/Michaelzhd/CMPE282/studyroom/src/main/java/edu/sjsu/cmpe282/util/CorsFilter.java
 /Users/Michaelzhd/CMPE282/studyroom/src/main/java/edu/sjsu/cmpe282/model/StudentReservation.java

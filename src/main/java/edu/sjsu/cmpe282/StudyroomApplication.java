@@ -9,7 +9,7 @@ import org.springframework.boot.context.web.SpringBootServletInitializer;
 //@EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class,MongoRepositoriesAutoConfiguration.class})
 //@Configuration
 //@ComponentScan
-public class StudyroomApplication { //extends SpringBootServletInitializer {
+public class StudyroomApplication { // extends SpringBootServletInitializer {
 	// extends SpringBootServletInitializer for the purpose of building war files
 	public static void main(String[] args) {
 		
@@ -21,7 +21,7 @@ public class StudyroomApplication { //extends SpringBootServletInitializer {
 //		.run(args); 
 	}
 	
-	//for the purpose of building war files 
+//	//for the purpose of building war files 
 //	@Override
 //    protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 //        return application.sources(StudyroomApplication.class);
